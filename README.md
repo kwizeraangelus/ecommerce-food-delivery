@@ -29,7 +29,7 @@ Food Delivery Mobile Application
 ---
 
 ## Figma Project Link
-https://www.figma.com/proto/kg6jjwLB0EPbI7YtkWLsfU/E-commerce-food-delivery?node-id=6-7334&t=sObVyXm2Ac9RvJgn-1
+https://www.figma.com/design/kg6jjwLB0EPbI7YtkWLsfU/E-commerce-food-delivery?node-id=6-5813&p=f
 ---
 
 ## Repository Structure
