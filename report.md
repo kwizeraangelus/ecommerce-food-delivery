@@ -1,108 +1,130 @@
-E-Commerce and Web Application Design Report
-Project Title: Food Delivery Mobile Application
-Course: E-Commerce and Web Application Design
-Date Issued: 31-05-2026
+# E-Commerce and Web Application Design Report
 
+## Project Title
+Food Delivery Mobile Application
 
-1. Problem Statement
+## Course
+E-Commerce and Web Application Design
 
-Many users, especially students and working individuals, face difficulties when ordering food manually. The process is often slow, inconsistent, and lacks transparency in pricing and delivery time. Users also struggle to compare different restaurants and menus efficiently.
+## Date Issued
+31-05-2026
 
-This application is designed to solve these problems by providing a centralized food delivery platform where users can browse restaurants, view menus, place orders, and track deliveries in real time.
+---
 
-Target Users:
-University students
-Office workers
-Busy individuals in urban areas
-Restaurant owners
-Importance of the System:
+## 1. Problem Statement
 
-The system improves convenience, reduces time spent ordering food, and provides users with multiple food options in one platform. It also helps restaurants reach more customers digitally.
+Many users, especially students and working individuals, face difficulties when ordering food manually. The process is often slow, inconsistent, and lacks transparency in pricing and delivery time.
 
-2. User Persona
+This application solves these problems by providing a centralized platform where users can browse restaurants, view menus, place orders, and track deliveries in real time.
 
-Name: Kevin Uwimana
-Age: 21
-Occupation: University Student
+### Target Users:
+- University students  
+- Office workers  
+- Busy individuals in urban areas  
+- Restaurant owners  
 
-Goals:
-Order food quickly during breaks
-Access affordable meal options
-Avoid wasting time in long queues
-Challenges / Frustrations:
-Limited time between classes
-Slow traditional ordering methods
-Lack of clear food price information
-Inconsistent delivery services
-3. User Flow Diagram
+### Importance of the System:
+The system improves convenience, reduces ordering time, and provides multiple food options in one platform.
 
-The user flow describes how a user interacts with the system from start to finish.
+---
 
-Login / Sign Up
-→ Home Page (List of Restaurants)
-→ Select Restaurant
-→ View Menu
-→ Add Items to Cart
-→ Checkout
-→ Select Payment Method
-→ Confirm Order
-→ Order Tracking Page
+## 2. User Persona
 
-4. Wireframes (Low-Fidelity Design)
+**Name:** Kevin Uwimana  
+**Age:** 21  
+**Occupation:** University Student  
 
-The wireframes represent the basic structure of the application without detailed styling.
+### Goals:
+- Order food quickly during breaks  
+- Access affordable meals  
+- Avoid long queues  
 
-Required Screens:
-Login / Register Screen
-Home Page (Restaurant Listing)
-Menu Page (Food Items)
-Cart / Checkout Page
-Purpose:
-Define layout structure
-Position buttons, images, and text placeholders
-Focus on usability and navigation flow
-5. High-Fidelity UI Design
+### Challenges:
+- Limited time between classes  
+- Slow ordering process  
+- Lack of price transparency  
+- Delivery delays  
 
-The high-fidelity design represents the final visual appearance of the application.
+---
 
-Required Screens:
-Splash Screen
-Login / Sign Up Screen
-Home Page (Restaurants List)
-Restaurant Menu Page
-Food Details Page
-Cart Page
-Checkout & Payment Page
-Order Tracking Page
-Design Requirements:
-Consistent color theme
-Clear typography
-Proper spacing and alignment
-Use of icons and images
-Modern and user-friendly interface
-6. Interactive Prototype
+## 3. User Flow
 
-The prototype demonstrates how users interact with the application.
+Login / Sign Up  
+→ Home Page (Restaurants List)  
+→ Select Restaurant  
+→ View Menu  
+→ Add Items to Cart  
+→ Checkout  
+→ Payment  
+→ Order Confirmation  
+→ Order Tracking  
 
-Key Interactions:
-Login button navigates to Home Page
-Restaurant selection opens Menu Page
-Add to Cart updates Cart Page
-Checkout leads to Payment Page
-Payment confirmation leads to Order Tracking Page
+---
 
-The prototype should simulate a real application experience using clickable links between screens.
+## 4. Wireframes (Low-Fidelity Design)
 
-7. Accessibility Considerations
+Wireframes show the basic layout structure of the application.
 
-The application is designed to be accessible to all users.
+### Screens:
+- Login / Register  
+- Home Page  
+- Menu Page  
+- Cart / Checkout  
 
-Considerations:
-Readable font sizes for all text elements
-High contrast between background and text
-Simple and clear navigation structure
-Consistent layout across all screens
-Buttons and interactive elements clearly visible
-8. Conclusion
+### Purpose:
+- Layout planning  
+- Navigation structure  
+- UI structure before styling  
 
-The Food Delivery Application prototype provides a user-friendly solution for ordering food efficiently. It simplifies the process of browsing restaurants, selecting meals, and completing orders. The design focuses on usability, accessibility, and a smooth user experience.
+---
+
+## 5. High-Fidelity UI Design
+
+Final polished design includes:
+
+### Screens:
+- Splash Screen  
+- Login / Sign Up  
+- Home Page  
+- Restaurant Menu  
+- Food Details  
+- Cart Page  
+- Checkout Page  
+- Order Tracking  
+
+### Design Requirements:
+- Consistent colors  
+- Clear typography  
+- Proper spacing  
+- Icons and images  
+- Modern UI design  
+
+---
+
+## 6. Interactive Prototype
+
+The prototype shows user interaction flow:
+
+- Login → Home  
+- Restaurant → Menu  
+- Add to Cart → Cart  
+- Checkout → Payment  
+- Payment → Order Tracking  
+
+The prototype is created in Figma using clickable navigation between screens.
+
+---
+
+## 7. Accessibility Considerations
+
+- Readable font sizes  
+- High color contrast  
+- Simple navigation  
+- Consistent layout  
+- Clear buttons and icons  
+
+---
+
+## 8. Conclusion
+
+This Food Delivery Application provides a simple and efficient way for users to order food online. It focuses on usability, accessibility, and smooth user experience through modern UI/UX design principles.
