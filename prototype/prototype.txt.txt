@@ -1,0 +1,26 @@
+FOOD DELIVERY MOBILE APPLICATION - PROTOTYPE
+
+Figma Prototype Link:
+https://www.figma.com/proto/kg6jjwLB0EPbI7YtkWLsfU/E-commerce-food-delivery?node-id=6-7333&t=sObVyXm2Ac9RvJgn-1&starting-point-node-id=6%3A6924
+
+Description:
+This prototype demonstrates the user flow of the Food Delivery Mobile Application. It shows how users navigate through the system from login to order tracking.
+
+User Flow:
+1. Login / Sign Up Page
+→ Home Page (Restaurant List)
+→ Select Restaurant
+→ View Menu
+→ Add Items to Cart
+→ Checkout Page
+→ Payment Confirmation
+→ Order Tracking Page
+
+Prototype Features:
+- Clickable navigation between screens
+- Smooth transitions between pages
+- Simulated real application user experience
+- Mobile-friendly interface design
+
+Note:
+This prototype is created using Figma and is part of the UI/UX design assignment for E-Commerce and Web Application Design course.
