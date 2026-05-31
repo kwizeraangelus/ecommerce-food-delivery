@@ -9,6 +9,15 @@ E-Commerce and Web Application Design
 ## Date Issued
 31-05-2026
 
+
+
+
+Name: Kwizera Angelus   regnumber :22654/2023
+Name: MBonyishema olivier  regNumber: 22744/2023
+Name: Ingabire aline       regNumber: 22602/2023
+
+Assignment: Food Delivery Mobile Application Prototype
+Submission Date: 31-05-2026
 ---
 
 ## 1. Problem Statement
