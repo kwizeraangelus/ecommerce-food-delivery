@@ -63,7 +63,9 @@ Login / Sign Up
 
 ## 4. Wireframes (Low-Fidelity Design)
 
-Wireframes show the basic layout structure of the application.
+
+The wireframes were created to define the layout and structure of the Food Delivery Mobile Application before developing the final user interface. They illustrate the placement of navigation elements, input fields, buttons, and content areas. These wireframes helped visualize the user flow and screen organization before applying colors, images, and detailed design elements.
+
 
 ### Screens:
 - Login / Register  
